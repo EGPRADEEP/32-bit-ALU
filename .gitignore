@@ -1,0 +1,61 @@
+# Verilog simulation and synthesis
+*.vcd
+*.vvp
+*.lxt
+*.fst
+*.vlog
+*.svf
+*.sdf
+*.log
+*.bak
+*.jou
+*.wlf
+*.wdb
+*.syr
+
+# Quartus Prime files
+*.rpt
+*.qsf
+*.qpf
+*.sof
+*.pof
+*.sdc
+*.smsg
+*.sld
+*.smsg
+*.eda
+*.cmp
+*.pin
+*.summary
+*.bak
+*.svf
+db/
+incremental_db/
+simulation/
+output_files/
+*.qws
+
+# ModelSim or QuestaSim simulation files
+transcript
+*.vstf
+*.vsim
+work/
+modelsim.ini
+
+# Temp and backup files
+*~
+*.swp
+*.tmp
+*.DS_Store
+*.log
+*.out
+
+# IDE-specific
+.vscode/
+.idea/
+*.class
+
+# Ignore generated folders
+__pycache__/
+build/
+output/
