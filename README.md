@@ -49,15 +49,3 @@ The goal of this project is to implement a **configurable 32-bit ALU** using str
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-32bit-ALU-Verilog/
-├── alu32.v              # Main ALU module
-├── alu32_tb.v           # Testbench
-├── README.md            # Project description
-├── LICENSE              # MIT License
-├── images/              # Block diagrams and simulation waveforms
-├── quartus_project/     # Optional Quartus project files
-└── .gitignore           # Git ignored files
-
